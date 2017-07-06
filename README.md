@@ -1,5 +1,6 @@
 # ObjectDetectionCNN
 by Jason Ligon and Daniel Kim
+
 This was a project for my Artificial Neural Networks class.
 It is an object detection system using an CNNs.
 The CNNs were pre-trained using CIFAR-10 dataset and finally trained using Multiple Object Tracking (MOT) dataset to detect objects.
